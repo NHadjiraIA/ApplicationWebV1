@@ -1,2 +1,2 @@
 # ApplicationWebV1
-building Application Web
+building Application Web with Django
